@@ -15,7 +15,6 @@ export const ButtonContainer = styled.button`
   line-height: normal;
   -webkit-font-smoothing: inherit;
   -moz-osx-font-smoothing: inherit;
-  -webkit-appearance: none;
   background-color: ${color.primary};
   color: ${color.white};
   padding: 10px 20px;
@@ -43,7 +42,6 @@ export const ButtonLinkContainer = styled(Link)`
   line-height: normal;
   -webkit-font-smoothing: inherit;
   -moz-osx-font-smoothing: inherit;
-  -webkit-appearance: none;
   background-color: ${color.primary};
   color: ${color.white};
   padding: 10px 20px;
