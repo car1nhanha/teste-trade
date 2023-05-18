@@ -131,6 +131,7 @@ export const Info = () => {
   return (
     <>
       <BodyTemplate>
+        {/*  */}
         <Container>
           <Title>Jogadores</Title>
           <ContainerNames>
